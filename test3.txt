@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-test3.txt ceshi
-=======
+test3.txt ces
 erere
->>>>>>> uat
